@@ -23,7 +23,7 @@
 #### python application.py
 
 
-## For Android interface just install the app app-debug.apk and scan the image with white background to find the Herb Tree Category.
+### For Android interface just install the app app-debug.apk and scan the image with white background to find the Herb Tree Category.
 
 #### dataset link :- https://data.mendeley.com/datasets/nnytj2v3n5/1
 
