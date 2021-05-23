@@ -21,3 +21,6 @@
 #### just install the dependencies which are present in requirement.txt
 #### pip install -r requiremnets.txt
 #### python application.py
+
+
+## For Android interface just install the app app-debug.apk and scan the image with white background to find the Herb Tree Category.
